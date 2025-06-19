@@ -1,0 +1,28 @@
+MIT License
+---------------------
+Portions of this project (see public/, main interface code) are licensed under:
+
+MIT License
+Copyright (c) 2025 Brendon Joseph Kelly
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+(CONTINUE FULL MIT TEXT)
+
+---------------------
+CROWN-SEAL License
+---------------------
+The following directories and files are governed by a sovereign, non-open license:
+
+- /src/kmath_engine.py
+- /runtime/
+- Any file marked with: #CROWN-SEAL
+
+These are proprietary, sealed components of the GenesisΩ†Black Intelligence System. They may not be copied, used, modified, reverse-engineered, or redistributed without express written permission or RuntimeID unlock.
+
+Use of these files implies agreement with the CROWN-SEAL v1.0 license (see LICENSE_CROWN).
+
+All rights reserved. Sealed under IP of Brendon Joseph Kelly.
+
+HASH: 67a8df0a97261ee04d8a4d3b255b5de8f7c0d3f804913c9f2196e9b2159355a1
+DATE: 2025-06-19T23:25Z
